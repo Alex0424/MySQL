@@ -1,6 +1,6 @@
 # MySQL
 
-## COMMANDS:
+## BASIC COMMANDS:
 
 `SHOW DATABASES;`
 
